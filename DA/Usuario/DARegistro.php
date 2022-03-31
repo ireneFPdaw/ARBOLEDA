@@ -4,7 +4,7 @@
 // RUTA CORRECTA DESDE LOGIN
 include "../DA/bd_Arboleda.php";
 
-
+//estamos modificando
 //esto es para el registro
 function insertarBD($usuario, $clave_hash){
     global $bd;
