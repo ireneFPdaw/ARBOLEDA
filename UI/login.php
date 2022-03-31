@@ -21,7 +21,7 @@
 
             <p class="submit"><input type="submit" value="Login" name="Login"></p>
             <a href="registro.php">Si no estás registrado,haz click aquí</a>
-
+            <p>Esta es la prueba para ver si se sube el código mofificado</p>
     </fieldset>
 
 </form>
